@@ -1,0 +1,148 @@
+h1 {
+	color : #f79646;
+	margin-top : -10px;
+	font-family : calibri;
+	text-align : center;
+}
+
+h2 {
+	color : #31849b;
+	font-family : calibri;
+	text-align : center;
+	font-size : 30px;
+}
+
+h3 {
+	font-family : calibri;
+	font-size : 1em;
+	font-weight : normal;
+}
+
+h4{
+	position: relative;
+	margin-left : 70px;
+	margin-top : -27px;
+	font-family : calibri;
+	font-size : 27px;
+}
+
+.age {
+	font-size: 20px;
+	margin-left : 170px;
+}
+
+.ville, .mail {
+	font-size: 20px;
+	margin-left : 100px;
+}
+
+.telephone {
+	font-size: 20px;
+	margin-left : 90px;
+}
+
+.age img {
+	width : 20px;
+	position:relative;
+	top : 4px;
+}
+
+.ville img {
+	width : 17px;
+	position:relative;
+	top : 1px;
+}
+
+.mail img {
+	width : 22px;
+	position:relative;
+	top : 1px;	
+}
+
+.telephone img {
+	width : 17px;
+	position:relative;
+	top : 2px;
+}
+
+.techintegrateur, .manutention, .techadministratif, .stagiaire {
+	font-weight : normal;
+}
+
+.details {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	width: 425px;
+	font-weight: normal;
+}
+
+.details .week {
+	display: inline-block;
+	width: 136px;
+	font-size : 20px;
+}
+
+.details .week img {
+	width : 35px;
+	position: relative;
+	top : 2px;
+}
+
+.details .city img {
+	position:relative;
+	width : 22px;
+	top : 2px;
+}
+
+.details .city {
+	margin-left: 70px;
+	font-size : 20px;
+	text-transform: uppercase;
+}
+
+.annee {
+	margin-left : 70px;
+	font-weight : normal;
+	font-size: 20px;
+	font-family : calibri;
+}
+
+.textConsort, .liste, .textDigital, .textSarl {
+	font-weight: normal;
+	font-size : 22px;
+}
+
+.hobbies img {
+	width : 100px; 
+}
+
+#contact span {
+	text-align: center;
+}
+
+#identity img {
+	width : 25px;
+}
+
+#studies img {
+	width : 30px;
+}
+
+.formation img {
+	width : 80%; 
+}
+
+.hobbies img {
+	position: relative;
+	margin-right : 610px;
+	width : 40%;  
+}
+
+img[alt="compétences"], img[alt="qualités"] {
+	display: block;
+	margin: 0 auto;
+	width : 90%; 
+	margin-bottom: 10px;
+}

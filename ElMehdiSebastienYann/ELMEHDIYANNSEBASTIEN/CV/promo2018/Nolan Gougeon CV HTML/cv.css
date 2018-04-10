@@ -1,0 +1,100 @@
+body
+{
+    font-family: Times New Roman, Arial, sans-serif;
+	font-size: 20px;
+    color: #181818;
+	background-image: url("fond_blanc.jpg");
+	background-attachment: fixed; /* Le fond restera fixe */
+	border-radius: 10px 5px 10px 5px;
+}
+
+
+
+/* Header */
+
+header
+{
+   
+}
+#identité
+{
+    width: 90%;
+    vertical-align: bottom;
+    text-align: left;
+	font-size: 20px;
+	font-style: normal;
+	 border: 3px black solid;
+	 border-radius: 20px;
+	 margin: 20px;
+	 overflow: auto;
+	
+}
+.imgfloat
+{
+	float : left;
+	margin-left: 40px;
+	margin-top : 10px;
+	margin-bottom : 10px;
+	width: 15%;
+}
+#adresse
+{
+display: inline-block;
+ margin-left: 50px;
+ border-radius: 10px;
+ width: 30%;
+ vertical-align: top;
+ text-align: left
+ font-size: 20px;
+ font-style: normal;
+}
+#références
+{
+    display: inline-block;
+	width: 30%;
+	margin-right: 2px;
+	margin-left: 30px;
+	text-align: left;
+		vertical-align: top;
+}
+.petit_img
+{
+  width: 45px;
+  height : 45px;
+   margin-left: 10px;
+ 	vertical-align: top;
+}
+.cadre
+{
+	width : 90%;
+	text-align : center;
+	border:  black double;
+	margin : 20px;
+}
+table
+{
+    border-collapse: collapse;
+	text-align : center;
+	width : 90%;
+	margin : 20px;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px   black double;
+}
+.td1
+{
+width : 20%;
+}
+.td2
+{
+   
+	text-align : left;
+	margin-left : 50px;
+	
+}
+caption
+{
+font-size: 30px;
+border: 1px   black double;
+}

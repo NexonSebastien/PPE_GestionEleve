@@ -1,0 +1,17 @@
+td {
+border : 1px solid black;
+}
+table {
+border-collapse : visible;
+width: 100%;
+}
+
+body{
+background-attachment: fixed; /* Le fond restera fixe */
+background-color : LemonChiffon; /* ou */
+background-repeat: repeat;
+opacity: 4;
+color: black;
+font-family: Comic Sans MS, Helvetica, sans-serif; 
+font-size: 15px;
+}

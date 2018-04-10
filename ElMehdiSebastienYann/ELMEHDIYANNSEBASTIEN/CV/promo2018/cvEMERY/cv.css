@@ -1,0 +1,34 @@
+body{
+background-color : #cecece;
+}
+p{
+Color : grey;
+}
+.Information{
+	float : left;
+	margin-top : 10px; 
+}
+.Photo{
+	float : right;
+	margin-top : 10px; 
+}
+h2{
+text-align : center;
+Color : red;
+font-weight : bold;
+
+}
+*{
+font-family : Trebuchet MS;
+Color : black;
+
+}
+table{
+margin : auto;
+ 
+/*text-align : center;*/
+/*border:5px solid #c11525;*/
+}
+td{
+	padding : 10px
+}

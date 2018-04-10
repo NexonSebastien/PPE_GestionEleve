@@ -1,0 +1,36 @@
+caption /* Titre du tableau */
+{
+   margin: auto; /* Centre le titre du tableau */
+   font-family: Arial, Times, "Times New Roman", serif;
+   font-weight: bold;
+   font-size: 1.2em;
+   color: rgba(0,223,252,1);
+   margin-bottom: 0px; /* Pour éviter que le titre ne soit trop collé au tableau en-dessous */
+}
+
+table /* Le tableau en lui-même */
+{
+   margin: auto; /* Centre le tableau */
+   /* border: 4px outset green; /* Bordure du tableau avec effet 3D (outset) */ 
+   border-collapse: collapse; /* Colle les bordures entre elles */
+   color: rgba(0,75,75,1);
+   background-color:#ddd;
+}
+
+th /* Les cellules d'en-tête */
+{
+   background-color: #333;
+   color:rgba(0,223,252,1);
+   font-size: 0.8em;
+   font-family: Arial, "Arial Black", Times, "Times New Roman", serif;
+}
+
+td,th /* Les cellules normales */
+{
+   border: 1px solid black;
+   font-family: "Comic Sans MS", "Trebuchet MS", Times, "Times New Roman", serif;
+   text-align: center; /* Tous les textes des cellules seront centrés*/
+   padding: 10px; /* Petite marge intérieure aux cellules pour éviter que le texte touche les bordures */
+   /* color:rgba(0,223,252,1); */
+}
+

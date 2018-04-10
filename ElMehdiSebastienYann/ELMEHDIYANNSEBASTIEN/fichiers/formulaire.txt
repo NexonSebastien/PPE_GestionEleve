@@ -1,0 +1,27 @@
+<form method="post" action="index.php?page=insertEleve"/>
+			<p>Nom : <INPUT type="text" name="nom"/></p>
+			<p>Prenom : <INPUT type="text" name="prenom"/></p>
+			<p>Filière : 
+				<select name = "filiere">
+					<option value = 0>NULL</option>
+					<option value = 1>CGO</option>
+					<option value = 2 selected="selected">SIO</option>
+				</select></p>
+			<p>Classe : 
+				<select name = "classe">
+					<option value = 0>NULL</option>
+					<option value = 1 selected="selected">SIO1</option>
+					<option value = 2>SIO2</option>
+				</select></p>
+			<p>Option : 
+				<select name = "option">
+					<option value = 0>NULL</option>
+					<option value = 1>SISR</option>
+					<option value = 2 selected="selected">SLAM</option>
+				</select></p>
+			<p>anneeDiplome : <INPUT type="text" name="anneeDiplome"/></p>
+			<p>adresseEmail :<INPUT type="text" name="adresseEmail"/></p>
+			<p>photo : <INPUT type="text" name="photo"/></p>
+			<p>cv : <INPUT type="text" name="cv"/></p>
+			<INPUT type="Submit" name="insert" value="Ajouter"/>	
+		</form>

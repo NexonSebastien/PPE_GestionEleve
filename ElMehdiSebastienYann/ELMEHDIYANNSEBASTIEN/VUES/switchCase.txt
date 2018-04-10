@@ -1,0 +1,57 @@
+if (isset($_POST["valider"]))
+{	$choix = $_POST["valider"];
+	
+	//IDELEVE
+	if (isset($_POST["idEleve"]))
+	{
+		$idEleve = $_POST["idEleve"];
+	}
+	else
+	{
+		$idEleve = "";
+	}
+	
+	//NOM
+	if (isset($_POST["nom"]))
+	{
+		$nom = $_POST["nom"];
+	}
+	else
+	{
+		$nom = "";
+	}
+	
+	//PRENOM
+	if (isset($_POST["prenom"]))
+	{
+		$prenom = $_POST["prenom"];
+	}
+	else
+	{
+		$prenom = "";
+	}
+	
+	//@
+	if (isset($_POST["adresseMail"]))
+	{
+		$adresseMail = $_POST["adresseMail"];
+	}
+	else
+	{
+		$adresseMaile = "";
+	}	
+	switch ($choix) {
+		case "insert" :
+		insertion($nom, $prenom, $adresseMail,$connexion);
+		break;
+		
+		case "maj" :
+		maj($nom, $prenom, $adresseMail, $idEleve,$connexion);
+		break;
+		
+		case "delete" :
+		delete($idEleve, $connexion);
+		break;
+		
+	}
+}

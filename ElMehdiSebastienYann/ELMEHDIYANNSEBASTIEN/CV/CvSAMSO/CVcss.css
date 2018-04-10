@@ -1,0 +1,20 @@
+table{
+	margin : auto ;
+	border : 5px solid #c11525 ;
+	padding : 10px ;
+}
+body{
+	background-color : white ; 
+	}
+h3{
+	text-align : center ;
+	text-decoration : underline ;
+	color : blue ;
+}
+p{
+	text-decoration : underline ;
+	color : green ;
+}
+img{
+	margin-left : 1300px ;
+}

@@ -1,0 +1,95 @@
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'AUBRY','Karim',2017,'karim.aubry@yahoo.fr','AUBRY.JPG','cvAubry.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'BALACHANDRAN','Anoujean',2017,'anoujeanbalachandran@gmail.com','BALACHANBRAN.JPG','cvBalachandran.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'BAREI','Anthony',2017,'anthony.barei@outlook.fr','BAREI.JPG','cvBARET.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'BEN ATIA','Yasmine',2017,'yasmine.benatia@gmail.com','BENATIA.JPG','cvBenatia.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'BENOMAR','Sidi-Mohamed',2017,'benomar.sidi@free.fr','BENOMAR.JPG','cvBenomar.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'BOUZFOUR','Yanis',2017,'yanis.bouzfour@outlook.fr','BOUZFOUR.JPG','Bouzfour.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'CAHANEEA','Shanna',2017,'scahaneea@gmail.com','CAHANEEA.JPG','cvCahaneea.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'CANE','Cedric',2017,'cane.ced95@gmail.com','CANE.JPG','cvCane.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'CHAUVIN','Alexandre',2017,'alexandre.chauvin96@yahoo.fr','CHAUVIN.JPG','cvChauvin.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'COELHO MORAIS','Harry Kennedy',2017,'harrykennedyc@hotmail.com','COELHOMORAIS.JPG','cvCoelhomorais.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'DERRAGUI','Ismael',2017,'derragui.ismail@gmail.com','DERRAGUI.JPG','cvDerragui.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'DIALLO','Thierno-Abdoulaye',2017,'abdoulaye.dc21@gmail.com','DIALLO.JPG','cvDiallo.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'EMKLI','Mickael',2017,'emkliMickael@gmail.com','EMKLI.JPG','cvEmkli.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'FRUTIEAUX','Adrian',2017,'frutieaux.adrian1@gmail.com','FRUTIAUX.JPG','cvFrutiaux.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'GELY','Abraham',2017,'gelyabraham@gmail.com','GELY.JPG','cvGely.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'GODIN','Francois',2017,'fgodin95@gmail.com','GODIN.JPG','cvGodin.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'KINHOUANDE','Tony',2017,'tsig.kinhouande@gmail.com','KINOUANDE.JPG','cvKinouande.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'LOFFLER','Maxime',2017,'maxime.loff@live.fr','LOFFLER.JPG','cvLoffler.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'LOISEL','Yolany',2017,'yolanyloisel.d@gmail.com','LOISEL.JPG','cvLoisel.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'LUCIANI','Romain',2017,'romainluciani1@gmail.com','LUCIANI.JPG','cvLuciani.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'MALARD','Alexis',2017,'pm1965@cegetel.net','MALARD.JPG','cvMalard.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'MALOUBIER','Quentin',2017,'quentin.maloubier27@orange.fr','MALOUBIER.JPG','cvMaloubier.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'MAWANZI','Stephane',2017,'stephanemawanzi@gmail.com','MAWANZI.JPG','cvMawanzi.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'MC VEAN','Robin',2017,'robinmc4@hotmail.fr','MCVEAN.JPG','cvMcvean.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'NEGARET','Erwan',2017,'enegaret@gmail.com','NEGARET.JPG','cvNegaret.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'RAMANUJAM','Jayasree',2017,'ramanujam.jayasree@gmail.com','RAMANUJAM.JPG','CvRamanujam.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'RAMI','Ines',2017,'nenes97@hotmail.fr','RAMI.JPG','cvRami.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'RINVILLE','Ernst',2017,'renst_971@hotmail.fr','RINVILLE.JPG','cvRinville.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'ROYER','David',2017,'m.royer.david@gmail.com','ROYER.JPG','cvRoyer.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'SOW','Abdul Bachir',2017,'abdulbachir.sow@gmail.com','SOW.JPG','cvSow.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',2,'TAITINGER','Paul',2017,'paulnils2006@hotmail.fr','TAITINGER.JPG','cvTaitinger.html');
+
+Insert into Eleve (idEleve,idFiliere,idClasse,idOption,nom,prenom,anneeDiplome,adresseEmail,Photo,CV) 
+values ('','BTS','SIO1',1,'YAKAN','Melanie',2017,'y_melanie@hotmail.fr','YAKAN.JPG','cvYakan.html');

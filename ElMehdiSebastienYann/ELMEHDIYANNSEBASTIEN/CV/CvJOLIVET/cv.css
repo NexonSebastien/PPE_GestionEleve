@@ -1,0 +1,81 @@
+body
+{
+    font-family: Times New Roman, Times, serif;
+	font-size: 18px;
+    color: #181818;
+	background-color: grey;
+	background-attachment: fixed; /* Le fond restera fixe */
+	border-radius: 10px 5px 10px 5px;
+}
+
+
+
+/* Header */
+
+header
+{
+   
+}
+#identité
+{
+    width: 90%;
+    vertical-align: bottom;
+    text-align: left;
+	font-size: 20px;
+	font-style: normal;
+	border:  2px solid white;
+	border-radius: 5px;
+	margin: 20px;
+	overflow: auto;
+	
+}
+
+#adresse
+{
+	display: inline-block;
+	margin-left: 50px;
+	border-radius: 10px;
+	width: 30%;
+	vertical-align: top;
+	text-align: left;
+	font-size: 18px;
+	font-style: normal;
+}
+
+.cadre
+{
+	width : 75%;
+	text-align : center;
+	border:  2px solid white;
+	border-radius: 25px;
+	margin : 20px;
+	margin-left: 10%;
+}
+table
+{
+	border-collapse: collapse;
+	text-align : center;
+	width : 75%;
+	margin : 20px;
+	margin-left: 10%;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border:  2px solid white;
+}
+.td1
+{
+	width : 20%;
+}
+.td2
+{
+   
+	text-align : left;
+	margin-left : 50px;
+	
+}
+caption
+{
+	font-size: 30px;
+	letter-spacing: 3px;
+}

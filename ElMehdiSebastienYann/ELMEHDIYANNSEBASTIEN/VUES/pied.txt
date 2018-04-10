@@ -1,0 +1,20 @@
+NEXON SEBASTIEN
+from random import*
+n = randrange(1,100)
+win = False
+nbrTenta = 0
+
+while win == False and nbrTenta<10:
+    nbrTenta = nbrTenta + 1
+    tenta = int(input(""))
+
+    if tenta == n:
+        win = True
+        print("Bravo vous avez trouver le nombre en ",nbrTenta,"tentative")
+    else:
+        if  tenta > n :
+            print("Plus petit, il vous reste à ",nbrTenta,"tentative")
+            
+        else:
+            print("Plus grand, il vous etes à ",nbrTenta,"tentative")
+            

@@ -1,0 +1,72 @@
+﻿header {
+	color: blanc;
+	text-align:center;
+}
+
+#conteneur {
+	/*background-color:#FF3366; */
+	background-color:#0099FF;
+	
+}
+body {
+	background-image: url("entrée lycée.jpg");
+	background-attachment:fixed;
+}
+#photo {
+	/*background-color:#FF3366; */
+	float : right;
+	margin-right: 40px;
+	margin-top : 10px;
+	margin-bottom : 10px;
+	width: 20%;
+	height : 20%;
+	
+}
+img
+{
+width : 45px;
+heigth : 45px;
+}
+#navigation {
+   
+	float:left;
+	width:20%;
+}
+
+#navigation a:hover {
+	background:blue;
+	background-color:rgb(192,192,192);
+	
+}
+
+#page {
+	/*contenu*/
+	margin-left:21%; 
+	background-color:#3399FF;
+	/*text-align:center; */
+	width:80%;
+	
+}
+
+footer{
+	text-align:center;
+	clear:left;
+	background-color:rgb(255,255,255);
+}
+table{
+	/*text-align:left;
+	margin-left : 35%; */
+	
+}
+#code {
+   border-radius: 1px solid black;
+   font-family: "Comic Sans MS", "Trebuchet MS", Times, "Times New Roman", serif;
+   text-align: left; /* Tous les textes des cellules seront centrés*/
+   padding: 5px; /* Petite marge intérieure aux cellules pour éviter que le texte touche les bordures */
+}
+#resultat {
+background-color:#12510533;
+}
+mark{
+	background-color: white;
+	}

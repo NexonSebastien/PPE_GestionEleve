@@ -1,0 +1,25 @@
+table	{
+border-collapse :collapse;
+}
+
+td{
+border :1px solid black;
+}
+body {
+	background-image: url("fondCv.png")
+}
+H1,H2
+{
+	text-decoration: underline
+}
+H1,H2,p,em
+{
+	text-align: center
+}
+H1,H2
+{
+	font-weight: bold;
+}
+<center>
+/*<img width="230" height""340" src="photoProfil.jpg" alt="photo"/>*/
+</center>

@@ -1,0 +1,60 @@
+body {
+Color: #070719;
+font-family : Century Gothic;
+}
+
+background {
+background-repeat: repeat;
+}
+
+p{
+font-size: 30px;
+text-align: center;
+text-decoration: blink;
+text-shadow: 5px 5px 2px yellow;
+}
+
+h1 {
+font-size: xx-large;
+font-weight: bold;
+text-align: center;
+text-decoration: underline;
+}
+
+img{
+float: left
+}
+
+h2 {
+font-weight: bold;
+text-decoration: underline;
+}
+
+table{
+background-color: #FFFFFF;
+border-collapse: collapse;
+border: 3px black dashed;
+padding-left: 2px;
+padding-right: 2px;
+padding-bottom: 7px;
+padding-top: 7px;
+margin-left: 260px;
+margin-bottom: 60px;
+
+}
+
+td, th {
+border: 2px solid black;
+padding-left: 2px;
+padding-right: 2px;
+padding-bottom: 7px;
+padding-top: 7px;
+margin-left: 260px;
+margin-bottom: 60px;
+
+}
+
+th {
+font-family: Trebuchet MS;
+font-size: 20px;
+}

@@ -1,0 +1,15 @@
+td {
+border : 5px solid black;
+}
+table {
+border-collapse : visible;
+width: 100%;
+}
+
+body{
+	
+background-color : 00C9FF ;
+color: black;
+font-family: Comic Sans MS, Helvetica, sans-serif; 
+font-size: 15px;
+}
